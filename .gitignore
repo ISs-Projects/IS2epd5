@@ -22,3 +22,9 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+/E1/CelsiusConverter/nbproject/private/
+/E1/CelsiusConverter/build/
+/E1/Calculadora/nbproject/private/
+/E1/Calculadora/build/
+/E2/Calculadora/build/
+/E2/Calculadora/nbproject/private/
