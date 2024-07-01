@@ -28,3 +28,6 @@ replay_pid*
 /E1/Calculadora/build/
 /E2/Calculadora/build/
 /E2/Calculadora/nbproject/private/
+
+*private.xml
+Solucion/Calculadora/nbproject/private/private.xml
